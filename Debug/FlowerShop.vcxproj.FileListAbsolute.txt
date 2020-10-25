@@ -1,0 +1,2 @@
+C:\Users\mvideo\Desktop\Программирование\С++\учебные работы\FlowerShop\Debug\FlowerShop.exe
+C:\Users\mvideo\Desktop\Программирование\С++\учебные работы\FlowerShop\Debug\FlowerShop.pdb
